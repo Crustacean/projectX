@@ -1,0 +1,32 @@
+{
+    "name": "trikkle",
+    "short_name": "trikkle",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color":"#ffffff",
+    "theme_color":"#af0917",
+    "description": "Simply creating beautiful websites.",
+    "icons":[
+        {
+            "src": "/images/icons/app-icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icons/app-icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icons/app-icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icons/app-icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ]
+}
